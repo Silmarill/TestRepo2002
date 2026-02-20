@@ -10,7 +10,7 @@ namespace asdasd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello123!");
         }
     }
 }
